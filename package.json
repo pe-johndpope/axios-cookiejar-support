@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "axios": ">=0.20.0",
-    "tough-cookie": ">=4.0.0"
+    "tough-cookie": "https://github.com/colincasey/tough-cookie#bugfix/222_react_native_support"
   },
   "devDependencies": {
     "@ava/typescript": "3.0.1",
@@ -44,7 +44,7 @@
     "ava": "4.0.1",
     "axios": "0.26.0",
     "semantic-release": "17.4.7",
-    "tough-cookie": "4.0.0",
+    "tough-cookie":"https://github.com/colincasey/tough-cookie#bugfix/222_react_native_support"
     "typescript": "4.6.2"
   },
   "keywords": [
